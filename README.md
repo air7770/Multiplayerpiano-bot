@@ -42,6 +42,7 @@ Install Tampermonkey from the Google Extension Store and then drop this script o
 --------
 
 0.2.0
+
 Добавленно:
 
 Информация о вас с помощью команд !цвет, !имя и !ид
@@ -49,6 +50,15 @@ Install Tampermonkey from the Google Extension Store and then drop this script o
 Английская интеграция(теперь русская не единственная=) )
 
 Все точки с запятой теперь на месте
+
+--------
+
+Обновление 0.2.1
+
+Добавленно:
+
+Исправлены косяки в коде
+!айди теперь есть в команде !помощь
 
 --------
 
