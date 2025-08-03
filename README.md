@@ -58,6 +58,7 @@ Install Tampermonkey from the Google Extension Store and then drop this script o
 Добавленно:
 
 Исправлены косяки в коде
+
 !айди теперь есть в команде !помощь
 
 --------
