@@ -77,7 +77,8 @@ Install Tampermonkey from the Google Extension Store and then drop this script o
 
 Теперь есть также и ютуб канал
 
-Теперь есть поддержка MPP.com, org, dev, net
+Также есть поддержка MPP.com, org, dev, net
+
 --------
 
 0.3.0 скоро
