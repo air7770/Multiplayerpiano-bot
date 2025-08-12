@@ -81,4 +81,15 @@ Install Tampermonkey from the Google Extension Store and then drop this script o
 
 --------
 
-0.3.0 скоро
+0.3.0 Aplha | 
+Последний тест бота
+
+Добавленно:
+
+Переделанна новая команда !бсКейс-[!бсК] на !бокс-[!кейс]
+
+Переделка команды !help
+
+убраны var a, var b, var input;
+
+Большинство команд переделано
